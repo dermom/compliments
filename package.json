@@ -7,5 +7,17 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Dan Villa",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kingnebby/compliments.git"
+  },
+  "bugs": {
+    "url": "https://github.com/kingnebby/compliments/issues"
+  },
+  "homepage": "https://github.com/kingnebby/compliments#readme",
+  "keywords": [
+    "compliments",
+    "json"
+  ]
 }
