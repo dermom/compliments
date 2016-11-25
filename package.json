@@ -1,5 +1,5 @@
 {
-  "name": "compliments",
+  "name": "complimentjs",
   "version": "1.0.0",
   "description": "A list of simple compliments.",
   "main": "lib/compliments.json",
